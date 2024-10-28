@@ -64,7 +64,9 @@
     "esa": "jest -i src/16_ESAMarsRover/test.ts",
     "katacombs": "jest -i src/19_Katacombs/test/test.ts"
   },
-  "dependencies": {},
+  "dependencies": {
+    "i": "^0.3.7"
+  },
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
