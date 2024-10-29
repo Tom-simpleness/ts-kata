@@ -4,7 +4,8 @@ Write a function that returns true or false depending on whether its input integ
 
 - A leap year is defined as:
 
-  - one that is divisible by 4
+  - one that is divisible by 4 et pas 100 ok
+    par 4 100 et 400 ok
   - but is not otherwise divisible by 100
   - unless it is also divisible by 400.
 
